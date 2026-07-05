@@ -1,0 +1,10 @@
+{
+  "projectId": "jitu-moni-grocery",
+  "appId": "1:844225941540:web:2036f9409313a6995d08b1",
+  "apiKey": "AIzaSyDPnJLHrCSAEmRnQ28UotLK4OcruPfykbQ",
+  "authDomain": "jitu-moni-grocery.firebaseapp.com",
+  "firestoreDatabaseId": "(default)",
+  "storageBucket": "jitu-moni-grocery.firebasestorage.app",
+  "messagingSenderId": "844225941540",
+  "measurementId": ""
+}

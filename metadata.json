@@ -1,0 +1,6 @@
+{
+  "name": "Arajuma Store",
+  "description": "Premium grocery e-commerce experience for Arajuma Store with active cart, wishlist, real-time-like order tracking, custom checkout, and a comprehensive admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
